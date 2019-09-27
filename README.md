@@ -1,6 +1,6 @@
 # VisualPerceptron
  
-The VisualPerceptron is a project meant for visualization of the learning process of a Perceptron. It was originally designed to be used as an example of such algorithm in a class about Neural Networks.
+The VisualPerceptron is a project meant for visualization of the learning process of a Perceptron. It was originally designed to be used as an example of such algorithm in a class I taught about Neural Networks.
 
 The original implementation uses PyQT to provide a GUI, in which the user can tune some parameters, feed some data visually and watch the Perceptron learning (or not) how to classify the given data.
 
